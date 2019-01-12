@@ -1,0 +1,6 @@
+name: MapGenerator
+main: itsu.mcbe.mapbuilder.Main
+author: itsu
+api: [1.0.0]
+version: 1.0.0
+load: STARTUP
